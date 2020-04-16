@@ -18,6 +18,6 @@ Before the implementation of every model, I have provided link to resources from
 ### 3. Convolutional Neural Networks
 ### 4. Recurrent Neural Networks
 ### 5. Autoencoder
-### 6. Ristricted  Boltzman Machines
+### 6. Restricted  Boltzman Machines
 ### 7. Variational Autoencoders
 ### 8. Generative Adversarial Networks
