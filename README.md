@@ -17,7 +17,7 @@ Before the implementation of every model, I have provided link to resources from
 ### 2. Multi Layer Perceptrons
 ### 3. Convolutional Neural Networks
 ### 4. Recurrent Neural Networks
-### 5. Autoencoder
+### 5. Autoencoders
 ### 6. Restricted  Boltzman Machines
 ### 7. Variational Autoencoders
 ### 8. Generative Adversarial Networks
