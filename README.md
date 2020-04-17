@@ -14,7 +14,9 @@ Before the implementation of every model, I have provided link to resources from
   * 1.1  [**Getting Started with PyTorch**](https://github.com/HaroonAnsari/PyTorch-Deep-Learning/blob/master/1.%20Pytorch%20Basics/1.%20Getting_Started_with_Pytorch.ipynb)
   * 1.2  [**Data Representation**](https://github.com/HaroonAnsari/PyTorch-Deep-Learning/blob/master/1.%20Pytorch%20Basics/2.%20Data_Representation.ipynb)
   * 1.3  [**Building a Linear Model with PyTorch**](https://github.com/HaroonAnsari/PyTorch-Deep-Learning/blob/master/1.%20Pytorch%20Basics/3.%20Building_a_Linear_Model_with_Pytorch.ipynb)
-### 2. Multi Layer Perceptrons
+### 2. [Multi Layer Perceptrons](https://github.com/HaroonAnsari/PyTorch-Deep-Learning/tree/master/2.%20Multi%20Layer%20Perceptrons)
+  * 2.1 [**Simple MLP**](https://github.com/HaroonAnsari/PyTorch-Deep-Learning/blob/master/2.%20Multi%20Layer%20Perceptrons/1.%20Simple_MLP.ipynb)
+  * 2.2 [**Advanced MLPs ( Dropout, Batch Normalization and Data Augmentation)**](https://github.com/HaroonAnsari/PyTorch-Deep-Learning/blob/master/2.%20Multi%20Layer%20Perceptrons/2.%20Advanced_MLPs.ipynb)
 ### 3. Convolutional Neural Networks
 ### 4. Recurrent Neural Networks
 ### 5. Autoencoders
